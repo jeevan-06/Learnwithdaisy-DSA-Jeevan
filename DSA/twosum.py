@@ -3,9 +3,9 @@ class solution:
         seen={}
         
         for i, num in enumerate(nums):
-            complement = nums-target
+            complement = target - num
 
             if complement in seen:
-                return[seen[enumerate],1]
+                return [seen[complement], i]
 
-            seen[num]=1
+            seen[num] = i
