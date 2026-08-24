@@ -11,4 +11,4 @@ class Solution:
             if count[s[i]] == 1:
               return i
         
-        return
+        return -1
