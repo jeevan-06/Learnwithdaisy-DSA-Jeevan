@@ -1,45 +1,84 @@
-# 🚀 Data Structures & Algorithms (DSA) Practice Portfolio
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA%20Practice%20Portfolio&fontSize=50&fontAlignY=35&animation=twinkling" />
+</div>
 
-Welcome to my **Data Structures and Algorithms Practice Repository**! 
+<div align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
+  <a href="https://github.com/jeevan-06"><img src="https://img.shields.io/badge/Status-Active_Development-4CAF50?style=for-the-badge" alt="Status Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-Data_Structures_&_Algorithms-FF5722?style=for-the-badge" alt="DSA Badge"/></a>
+</div>
 
-This repository serves as a personal portfolio and a structured log of my journey to master DSA concepts. It showcases my daily progress, problem-solving skills, and ability to write clean, efficient, and optimized code in Python.
+<br/>
 
-## 🎯 Objective
-- **Consistency**: Developing a strong habit of practicing coding challenges daily.
-- **Problem Solving**: Enhancing analytical skills to break down complex problems and find optimal solutions.
-- **Optimization**: Analyzing and improving time (Big O) and space complexities for each algorithm.
-- **Python Mastery**: Utilizing Python's built-in data structures and algorithms to their full potential.
-
-## 📁 Repository Structure
-To maintain a clear track of my daily learning, the repository is organized by days of the week. Inside each folder, you'll find various algorithmic problems I've tackled:
-
-- 📂 `DSA/Monday/` - Arrays, duplicates, basic traversals.
-- 📂 `DSA/Tuesday/` - Strings, two-pointer techniques, median of sorted arrays.
-- 📂 `DSA/wednesday/` - Hash maps, sets, character frequency analysis.
-- *(More updates coming as the journey continues!)*
-
-## 🧠 Topics & Patterns Covered So Far
-- **Arrays & Strings**: Reversing strings, palindromes, longest common prefix.
-- **Hash Maps & Sets**: Ransom note, first unique character, contains duplicate.
-- **Two Pointers**: Valid palindrome, removing duplicates in-place.
-- **Sorting & Searching**: Finding the median of two sorted arrays.
-
-## 🛠️ Tech Stack
-- **Language**: Python 3 🐍
-- **Version Control**: Git & GitHub
-
-## 📈 Future Goals
-- Complete 100+ standard problems across different difficulty levels (Easy/Medium/Hard).
-- Deep dive into Advanced Data Structures (Trees, Graphs, Tries, Heaps).
-- Master Dynamic Programming and Backtracking.
-- Consistently participate in coding contests.
-
-## 📫 Let's Connect
-*Feel free to reach out to me for collaboration, discussions, or opportunities!*
-
-- **LinkedIn**: [Add Your LinkedIn URL]
-- **Portfolio**: [Add Your Portfolio Website URL]
-- **GitHub**: [Add Your GitHub Profile URL]
+> *"First, solve the problem. Then, write the code."* – John Johnson
 
 ---
-*If you find this repository helpful or inspiring, feel free to give it a ⭐!*
+
+## 🌟 About This Portfolio
+Welcome to my **Data Structures and Algorithms (DSA) Practice Repository**! 
+
+This repository is more than just a collection of code—it's a reflection of my continuous journey to become a better software engineer. Here, you will find my daily grind, thought processes, and an ever-growing showcase of analytical problem-solving using **Python**.
+
+---
+
+## 🎯 My Core Objectives
+
+| 🚀 Focus Area | 💡 Description |
+|---|---|
+| **Consistency** | Cultivating a discipline of daily coding to build muscle memory. |
+| **Problem Solving** | Breaking down complex problems into logical, manageable steps. |
+| **Optimization** | Crafting solutions that are not just correct, but performant (Time/Space Complexity). |
+| **Python Mastery** | Leveraging Pythonic techniques, built-in libraries, and advanced data structures. |
+
+---
+
+## 🗂️ Journey Tracker
+
+I organize my practice sessions chronologically to track my evolution. Here's a glimpse into the repository structure:
+
+<details open>
+<summary><b>🗓️ Weekly Breakdown</b></summary>
+<br>
+
+- 📂 **[`DSA/Monday/`](./DSA/Monday/)** ➜ Array manipulation, handling duplicates, basic traversals.
+- 📂 **[`DSA/Tuesday/`](./DSA/Tuesday/)** ➜ String operations, two-pointer approach, median of sorted arrays.
+- 📂 **[`DSA/wednesday/`](./DSA/wednesday/)** ➜ Hash maps, sets, frequency analysis (Ransom Note, Unique Characters).
+- ⏳ *(More folders will be added as I continue my daily streaks!)*
+</details>
+
+---
+
+## 🧠 Algorithmic Arsenal
+
+Here are the patterns and techniques I have tackled so far:
+* 🔹 **Arrays & Strings**: Reversals, Palindromes, Longest Common Prefix.
+* 🔹 **Hash Maps & Sets**: Ransom Note, First Unique Character, Contains Duplicate.
+* 🔹 **Two Pointers**: Valid Palindrome, In-place Duplicate Removal.
+* 🔹 **Sorting & Searching**: Median of Two Sorted Arrays.
+
+---
+
+## 📈 The Roadmap Ahead
+
+- [ ] Complete **100+ standard algorithms** (Easy/Medium/Hard).
+- [ ] Dive deep into **Trees, Graphs, Tries, and Heaps**.
+- [ ] Master advanced paradigms: **Dynamic Programming** and **Backtracking**.
+- [ ] Participate in global coding contests.
+
+---
+
+## 📫 Let's Connect!
+
+I am always open to discussing tech, algorithms, or potential opportunities. 
+
+<div align="center">
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://portfolio.com/"><img src="https://img.shields.io/badge/-Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <b>⭐ If you find this journey inspiring, feel free to drop a star! ⭐</b>
+</div>
